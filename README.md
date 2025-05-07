@@ -1,7 +1,6 @@
 
 # Introduce
-BaekjoonHub with AI review를 활용한 예제 Repository입니다. <br>
-BaekjoonHub with AI review는 오픈소스 BaekjoonHub에 AI 코드 리뷰 기능을 추가한 버전입니다.
+BaekjoonHub with AI review를 활용한 예제 Repository입니다.
 
 # Project Repository
 https://github.com/0-tae/BaekjoonHub-with-ai-review
